@@ -1,1 +1,2 @@
-# Self-base-game
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
